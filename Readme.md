@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Анастасия Мусаэльян](https://up.htmlacademy.ru/javascript/8/user/124940).
-* Наставник: `Неизвестно`.
+* Наставник: `Cам себе наставник`.
 
 ---
 
